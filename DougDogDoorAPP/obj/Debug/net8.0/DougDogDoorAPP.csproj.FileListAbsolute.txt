@@ -1,0 +1,14 @@
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\bin\Debug\net8.0\DougDogDoorAPP.exe
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\bin\Debug\net8.0\DougDogDoorAPP.deps.json
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\bin\Debug\net8.0\DougDogDoorAPP.runtimeconfig.json
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\bin\Debug\net8.0\DougDogDoorAPP.dll
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\bin\Debug\net8.0\DougDogDoorAPP.pdb
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.AssemblyInfoInputs.cache
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.AssemblyInfo.cs
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.csproj.CoreCompileInputs.cache
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.dll
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\refint\DougDogDoorAPP.dll
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.pdb
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\DougDogDoorAPP.genruntimeconfig.cache
+C:\Users\sarojkumar.panda\Desktop\.netTraining\DougDogDoorAPP\DougDogDoorAPP\obj\Debug\net8.0\ref\DougDogDoorAPP.dll
